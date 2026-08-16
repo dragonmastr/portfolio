@@ -1,4 +1,4 @@
-# hardikmurdiac20.com
+# Portfolio website
 
 Personal site for Hardik Murdia — Site Reliability Engineer and Technical Lead.
 
